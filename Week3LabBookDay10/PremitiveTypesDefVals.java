@@ -18,7 +18,7 @@ public class PremitiveTypesDefVals {
   PremitiveTypesDefVals ptdp=new PremitiveTypesDefVals();
 	// TO DO print on Console. 
   System.out.println("Default values of boolean boo:  "+ptdp.boo);
-  System.out.println("Default values of char C:  "+ptdp.i);
+  System.out.println("Default values of char C:  "+ptdp.c);
   System.out.println("Default values of byte b:  "+ptdp.b);    //	0
   System.out.println("Default values of short s:  "+ptdp.s);    //	0
   System.out.println("Default values of int i:  "+ptdp.i);    //	0
